@@ -5,6 +5,7 @@
 	- Dropout:  A Simple Way to Prevent Neural Networks from Overfitting (Srivastava, 2014) 
 		(classic) 
 <br style="line-height:10%">
+
 	- Dropout as a Low-Rank Regularizer for Matrix Factorization (Vidal, 2017)  (https://arxiv.org/pdf/1710.05092.pdf)
 		A theoretical analysis of dropout for matrix factorization. 
 		Proved that the expectation computed over r1,...,rd∼Bernoulli(θ) casts dropout into the a fully deterministic optimization problem.
