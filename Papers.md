@@ -1,4 +1,10 @@
-# Interesing Articles
+# Interesing Papers
+
+## Generals
+
+	-Mathematics  of  Deep  Learning (Vidal, 2017)  
+		global optimality, geometric stability, and invariance of the learned representations.
+[link](https://arxiv.org/pdf/1712.04741.pdf)
 
 ## Dropout
 
