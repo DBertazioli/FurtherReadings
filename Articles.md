@@ -1,5 +1,5 @@
 br {
-        line-height: 5%;
+        line-height: 150%;
      }
 # Interesing Articles
 
