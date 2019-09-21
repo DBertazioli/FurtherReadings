@@ -1,3 +1,6 @@
+br {
+        line-height: 75%;
+     }
 # Interesing Articles
 
 ## Dropout
