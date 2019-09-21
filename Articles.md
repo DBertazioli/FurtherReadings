@@ -10,6 +10,7 @@
 		A theoretical analysis of dropout for matrix factorization. 
 		Proved that the expectation computed over r1,...,rd∼Bernoulli(θ) casts dropout into the a fully deterministic optimization problem.
 		Connections btw Dropout and nuclear norms
+<br>
 	
 	- On the Implicit Bias of Dropout (Vidal, 2018) (https://arxiv.org/pdf/1806.09777.pdf)
 		They show that dropout prefers solutions with minimal path regularization. 
