@@ -38,4 +38,12 @@
 [link](https://arxiv.org/pdf/1905.11887.pdf)
 
 
+## Image Reconstruction
+
+	- Multi-scale convolutional neural network for pixel-wise reconstruction of Van Gogh’s drawings (Zeng, 2019)
+		great work on reconstructing fading drawing (van Gogh) with multi-scale CNN (pixel-wise work)
+	
+[link](https://link.springer.com/content/pdf/10.1007%2Fs00138-019-01047-3.pdf)
+
+
 		
