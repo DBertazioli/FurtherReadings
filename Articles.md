@@ -12,7 +12,7 @@
 		Connections btw Dropout and nuclear norms
 <span></span>
 	
-	- On the Implicit Bias of Dropout (Vidal, 2018) (https://arxiv.org/pdf/1806.09777.pdf)
+	- On the Implicit Bias of Dropout (Vidal, 2018) (link)[https://arxiv.org/pdf/1806.09777.pdf]
 		They show that dropout prefers solutions with minimal path regularization. 
 		Even if dealing non-convex optimization problem, they fully characterize the global optima of the dropout objective.
 		Show dropout favors low-rank weight matrices that are equalized. 
