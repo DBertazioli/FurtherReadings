@@ -21,10 +21,14 @@
 		All localoptima are equalized.
 		For sufficiently small dropout rates,  there are no spurious local minimain the landscape, and all saddle points are non-degenerate.
 		Suggest that dropout can efficiently converge to a globally optimal solution 
+<span></span>
 		
 	- On Dropout and Nuclear Norm Regularization (Mianjy, Arora, 2019) (https://arxiv.org/pdf/1905.11887.pdf)
 		
 		Derives  the explicit  regularizer induced by dropout, composed of the 2-path regularizer and other rescaling invariant regularizers. 
 		The convex envelope of the induced regularizer factors into an effective regularization term and and a term strictly related to Nuclear norms.
 		Further highlight equalization as a key network property under which the induced regularizer equals its convex envelope.  
+<span></span>
+
+
 		
