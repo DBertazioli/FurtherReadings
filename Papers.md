@@ -6,6 +6,16 @@
 		global optimality, geometric stability, and invariance of the learned representations.
 [link](https://arxiv.org/pdf/1712.04741.pdf)
 
+## Generalization and Overparam
+
+	- Reconciling modern machine learning practice and the bias-variance trade-off (Belkin, 2019)
+		Double U curve (gen. error vs complexity)
+[link](http://www.cs.columbia.edu/~djhsu/papers/biasvariance-pnas.pdf)
+
+	- Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers (Allen-Zhu, 2018)
+		(just an example of a series of articles, quite tough maths)
+[link](https://arxiv.org/pdf/1811.04918.pdf)		
+
 ## Dropout
 
 	- Dropout:  A Simple Way to Prevent Neural Networks from Overfitting (Srivastava, 2014) 
@@ -37,6 +47,10 @@
 		Further highlight equalization as a key network property under which the induced regularizer equals its convex envelope.  
 [link](https://arxiv.org/pdf/1905.11887.pdf)
 
+	- Summarizing Slides (Vidal) 
+		a nice facilitated content review
+[link](http://cis.jhu.edu/~rvidal/talks/learning/Tutorial-Math-Deep-Learning-2018.pdf)
+
 
 ## Image Reconstruction
 
@@ -44,6 +58,11 @@
 		great work on reconstructing fading drawing (van Gogh) with multi-scale CNN (pixel-wise work)
 	
 [link](https://link.springer.com/content/pdf/10.1007%2Fs00138-019-01047-3.pdf)
+
+## Random
+
+	- Deep neural network solution of the electronic Schrödinger equation
+[link](https://arxiv.org/pdf/1909.08423v1.pdf?fbclid=IwAR33bpri3oJBIgTjnQIYRC6FvBHpJrbgcqHeUmfKAcnTwcLqXQ1cFW2TApw)
 
 
 		
