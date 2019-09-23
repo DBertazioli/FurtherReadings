@@ -59,13 +59,17 @@
 	
 [link](https://link.springer.com/content/pdf/10.1007%2Fs00138-019-01047-3.pdf)
 
-## Random
+## AI/DL and Physics
 
 	- Deep neural network solution of the electronic Schrödinger equation
 [link](https://arxiv.org/pdf/1909.08423v1.pdf?fbclid=IwAR33bpri3oJBIgTjnQIYRC6FvBHpJrbgcqHeUmfKAcnTwcLqXQ1cFW2TApw)
 
+	- Cosmological constraints with deep learning from KiDS-450 weak lensing maps (Fluri et all, 2019)
+		trying to prove dark matter/energy via DL
+		more divulgatively (not at all) https://ethz.ch/en/news-and-events/eth-news/news/2019/09/artificial-intelligence-probes-dark-matter-in-the-universe.html
+[link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.063514)
 
 ## To give a look
 
-	- Making the Invisible Visible: Action Recognition Through Walls and Occlusions (Li at all, 2019)
+	- Making the Invisible Visible: Action Recognition Through Walls and Occlusions (Li et all, 2019)
 [link](https://arxiv.org/abs/1909.09300)
