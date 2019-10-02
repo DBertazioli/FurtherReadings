@@ -69,6 +69,12 @@
 		more divulgatively (not at all) https://ethz.ch/en/news-and-events/eth-news/news/2019/09/artificial-intelligence-probes-dark-matter-in-the-universe.html
 [link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.063514)
 
+## Climate Changes
+
+	Tackling Climate Change with Machine Learning (Various authors, including Bengio, Andrew Ng and other bigs, June 2019)
+
+[link](https://arxiv.org/pdf/1906.05433.pdf?fbclid=IwAR0DJnNY8tfZ8VqiegeYWaSbir8c2uzlpUqnK2JyIsIUW5lKLMwAk6tDzhY)	
+	
 ## To give a look
 
 	- Making the Invisible Visible: Action Recognition Through Walls and Occlusions (Li et all, 2019)
