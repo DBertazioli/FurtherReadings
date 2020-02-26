@@ -26,8 +26,13 @@
 
 
 - Selected topics:
+
+	- Generalization Theory:
+		
+		- 	Understanding Generalization in Deep Learning 
+		 	https://www.youtube.com/watch?v=z9je5YlnBgI
 	
 	more to organize and add:
-
 		- 	Random Matrices
-		-	Double Descent and Generalization 
+		-	Double Descent and Generalization
+			Understanding Generalization in Deep Learning
